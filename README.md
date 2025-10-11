@@ -1,1 +1,1 @@
-its just a java streas mastery
+its just a java stream mastery
